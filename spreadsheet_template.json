@@ -1,0 +1,31 @@
+{
+  "instructions": "Create a Google Sheets document with these column headers in row 1:",
+  "headers": [
+    "Company",
+    "Position",
+    "Status",
+    "Date Applied",
+    "Last Updated",
+    "Contact Person",
+    "Contact Email",
+    "Job URL",
+    "Salary Range",
+    "Location",
+    "Notes",
+    "Email Thread ID"
+  ],
+  "sample_data": {
+    "Company": "Example Corp",
+    "Position": "Software Engineer",
+    "Status": "Applied",
+    "Date Applied": "2024-01-15",
+    "Last Updated": "2024-01-15 10:30",
+    "Contact Person": "Jane Smith",
+    "Contact Email": "jane.smith@example.com",
+    "Job URL": "https://example.com/jobs/123",
+    "Salary Range": "$80,000 - $120,000",
+    "Location": "Remote",
+    "Notes": "Applied through company website",
+    "Email Thread ID": ""
+  }
+}
